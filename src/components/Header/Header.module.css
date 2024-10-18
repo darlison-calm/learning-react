@@ -1,0 +1,16 @@
+.header {
+  width: 100%;
+  height: 60px;
+  background-color: rgb(37, 31, 31);
+  color: white;
+  font-size: normal;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+span {
+  font-size: 1.5;
+}
+

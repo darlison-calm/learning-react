@@ -1,0 +1,94 @@
+.primary {
+  color: #C92071;
+}
+
+.secondary {
+  color: #B5B6F2;
+}
+
+.tertiary {
+  color: #991956;
+}
+
+.error {
+  color: #EE4266;
+}
+
+.success {
+  color: #52CA76;
+}
+
+.warning {
+  color: #F6AA1C;
+}
+
+/* Grayscale */
+.dark-gray {
+  color: #1F1F1F;
+}
+
+.dark-gray-2 {
+  color: #474747;
+}
+
+.dark-gray-3 {
+  color: #666666;
+}
+
+.light-gray {
+  color: #8F8F8F;
+}
+
+.light-gray-2 {
+  color: #CCCCCC;
+}
+
+.light-gray-3 {
+  color: #F5F5F5;
+}
+
+.white {
+  color: #FFFFFF;
+}
+
+.backPrimary {
+  background-color: #C92071; /* primary */
+}
+
+.backSecondary {
+  background-color: #B5B6F2; /* secondary */
+}
+
+.backTertiary {
+  background-color: #991956; /* tertiary */
+}
+
+.backError {
+  background-color: #EE4266; /* error */
+}
+
+.backSuccess {
+  background-color: #52CA76; /* success */
+}
+
+.backWarning {
+  background-color: #F6AA1C; /* warning */
+}
+
+/* Grayscale */
+.backDarkGray {
+  background-color: #1F1F1F; /* dark gray */
+}
+
+.backDarkGray2 {
+  background-color: #474747; /* dark gray 2 */
+}
+
+.backDarkGray3 {
+  background-color: #666666; /* dark gray 3 */
+}
+
+.backLightGray {
+  background-color: #8F8F8F;
+}
+
